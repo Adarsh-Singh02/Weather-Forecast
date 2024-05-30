@@ -4,9 +4,6 @@ import requests
 # Input the city name
 city = input('Enter City name: ')
 
-# Or you can also hard-code the value
-# city = 'Irkutsk'
-
 # Display the message
 print('Displaying Weather report for: ' + city)
 
